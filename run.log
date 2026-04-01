@@ -1,0 +1,18 @@
+'on' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'installer.exe' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'on' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+Start-Process : 无法对参数“FilePath”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+所在位置 行:1 字符: 15
++ Start-Process '' -ArgumentList '/quiet InstallAllUsers=1 PrependPath= ...
++               ~~
+    + CategoryInfo          : InvalidData: (:) [Start-Process]，ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationError,Microsoft.PowerShell.Commands.StartProcessCommand
+ 
+'ble' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+[OK] Python 瀹夎鎴愬姛锛?echo.
+'-r' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
