@@ -1,4 +1,0 @@
-streamlit
-Pillow
-openai
-pywin32
